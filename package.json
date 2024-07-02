@@ -4,7 +4,7 @@
   "description": "Blue and White 2- the sequel to Blue and White Classic",
   "repository": "https://github.com/JamesSadler-Dev/blueandwhite-2",
   "publisher": "JamesSadler",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.90.0"
   },
