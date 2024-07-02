@@ -1,8 +1,8 @@
 {
-  "name": "blueandwhite-medium",
-  "displayName": "BlueAndWhite-Medium",
-  "description": "Blue and White medium contrast",
-  "version": "0.0.1",
+  "name": "blueandwhite-2",
+  "displayName": "Blue And White 2",
+  "description": "Blue and White 2- the sequel to Blue and White Classic",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Blue And White- Medium",
+        "label": "Blue And White- 2",
         "uiTheme": "hc-black",
-        "path": "./themes/Blue And White- Medium-color-theme.json"
+        "path": "./themes/Blue And White-2 -color-theme.json"
       }
     ]
   }
