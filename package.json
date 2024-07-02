@@ -1,0 +1,21 @@
+{
+  "name": "blueandwhite-medium",
+  "displayName": "BlueAndWhite-Medium",
+  "description": "Blue and White medium contrast",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue And White- Medium",
+        "uiTheme": "hc-black",
+        "path": "./themes/Blue And White- Medium-color-theme.json"
+      }
+    ]
+  }
+}
