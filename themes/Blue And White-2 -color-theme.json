@@ -7,11 +7,11 @@
 			"editor.foreground": "#ffffff",
 			"editor.selectionBackground": "#ffffff",
 			"editorBracketHighlight.foreground1": "#ffffff",
-			"editorBracketHighlight.foreground2": "#ffffff",
+			"editorBracketHighlight.foreground2": "#8D64BC",
 			"editorBracketHighlight.foreground3": "#ffffff",
-			"editorBracketHighlight.foreground4": "#ffffff",
+			"editorBracketHighlight.foreground4": "#8D64BC",
 			"editorBracketHighlight.foreground5": "#ffffff",
-			"editorBracketHighlight.foreground6": "#ffffff",
+			"editorBracketHighlight.foreground6": "#8D64BC",
 			"editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
 			"editorIndentGuide.activeBackground1": "#ffffff",
 			"editorIndentGuide.background1": "#ffffff",
@@ -705,9 +705,9 @@
 			//"settings.focusedRowBackground": null,
 			//"settings.rowHoverBackground": null,
 			"terminal.foreground": "#ffffff",
-			"scrollbarSlider.hoverBackground": "#A1479B",
-			"scrollbarSlider.background": "#A1479B",
-			"sideBar.dropBackground": "#A1479B",
+			"scrollbarSlider.hoverBackground": "#8D64BC",
+			"scrollbarSlider.background": "#8D64BC",
+			"sideBar.dropBackground": "#8D64BC",
 			"sideBar.foreground": "#FFFFFF",
 			"sideBarSectionHeader.background": null,
 			"sideBarSectionHeader.foreground": null,
@@ -763,14 +763,14 @@
 			//"widget.shadow": null
 			"editorStickyScroll.border": "#0011fc", 
 			"list.focusHighlightForeground": "#007EA7",  //intellisense focused item
-			"scrollbarSlider.activeBackground": "#A1479B",
-			"contrastActiveBorder": "#A1479B",
-			"editorSuggestWidget.highlightForeground": "#A1479B",
-			"focusBorder": "#A1479B",
-			"sash.hoverBorder": "#A1479B",
-			"menu.selectionBorder": "#A1479B",
-			"menubar.selectionBorder": "#A1479B",
-			"peekViewEditor.matchHighlightBorder": "#A1479B",
+			"scrollbarSlider.activeBackground": "#8D64BC",
+			"contrastActiveBorder": "#8D64BC",
+			"editorSuggestWidget.highlightForeground": "#8D64BC",
+			"focusBorder": "#8D64BC",
+			"sash.hoverBorder": "#8D64BC",
+			"menu.selectionBorder": "#8D64BC",
+			"menubar.selectionBorder": "#8D64BC",
+			"peekViewEditor.matchHighlightBorder": "#8D64BC",
 			"editor.lineHighlightBorder": "#ff0000", //box around focused line
 			"editor.findMatchBorder": "#ff0000", 
 			"editor.findMatchHighlightBorder": "#ff0000",
@@ -826,8 +826,7 @@
 					"keyword.operator.logical"
 				],
 				"settings": {
-					"foreground": "#A1479B",
-					//"fontStyle": "bold"
+					"foreground": "#8D64BC",
 				}
 			},
 			{   //escape characters
@@ -1012,7 +1011,7 @@
 				"keyword.operator.typeid.cpp"
 				],
 				"settings": {
-					"foreground": "#FFC95B",
+					"foreground": "#FFFFFF",
 					"fontStyle": "bold"
 				}
 			},
